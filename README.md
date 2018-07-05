@@ -1,2 +1,0 @@
-# CapstoneOne
-Yelp Data Science
